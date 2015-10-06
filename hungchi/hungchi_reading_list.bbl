@@ -1,0 +1,145 @@
+\begin{thebibliography}{10}
+
+\bibitem{dijkstra2004conversational}
+Katinka Dijkstra, Michelle~S Bourgeois, Rebecca~S Allen, and Louis~D Burgio.
+\newblock Conversational coherence: Discourse analysis of older adults with and
+  without dementia.
+\newblock {\em Journal of Neurolinguistics}, 17(4):263--283, 2004.
+
+\bibitem{fuentes2005summarizing}
+Maria Fuentes, Edgar Gonzalez, Horacio Rodr{\i}gue, Jordi Turmo, and
+  Laura~Alonso i~Alemany.
+\newblock Summarizing spontaneous speech using general text properties.
+\newblock In {\em Proceedings of International Workshop Crossing Barriers in
+  Text Summarization Research, at Recent Advances in Natural Language
+  Processing 2005}, pages 10--18, 2005.
+
+\bibitem{gowans2004designing}
+Gary Gowans, Jim Campbell, Norm Alm, Richard Dye, Arlene Astell, and Maggie
+  Ellis.
+\newblock Designing a multimedia conversation aid for reminiscence therapy in
+  dementia care environments.
+\newblock In {\em CHI'04 Extended Abstracts on Human Factors in Computing
+  Systems}, pages 825--836. ACM, 2004.
+
+\bibitem{green2012assisting}
+Nancy~L Green, Curry Guinn, and Ronnie~W Smith.
+\newblock Assisting social conversation between persons with alzheimer's
+  disease and their conversational partners.
+\newblock In {\em Proceedings of the Third Workshop on Speech and Language
+  Processing for Assistive Technologies}, pages 37--46. Association for
+  Computational Linguistics, 2012.
+
+\bibitem{harada2013accessible}
+Susumu Harada, Daisuke Sato, Dustin~W Adams, Sri Kurniawan, Hironobu Takagi,
+  and Chieko Asakawa.
+\newblock Accessible photo album: enhancing the photo sharing experience for
+  people with visual impairment.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 2127--2136. ACM, 2013.
+
+\bibitem{imai2002speech}
+Toru Imai, Atsushi Matsui, Shinichi Homma, Takeshi Kobayakawa, Kazuo Onoe,
+  Shoei Sato, and Akio Ando.
+\newblock Speech recognition with a re-speak method for subtitling live
+  broadcasts.
+\newblock In {\em INTERSPEECH}, 2002.
+
+\bibitem{kazantseva2010summarizing}
+Anna Kazantseva and Stan Szpakowicz.
+\newblock Summarizing short stories.
+\newblock {\em Computational Linguistics}, 36(1):71--109, 2010.
+
+\bibitem{kikuchi2003automatic}
+Tomonori Kikuchi, Sadaoki Furui, and Chiori Hori.
+\newblock Automatic speech summarization based on sentence extraction and
+  compaction.
+\newblock In {\em Acoustics, Speech, and Signal Processing, 2003.
+  Proceedings.(ICASSP'03). 2003 IEEE International Conference on}, volume~1,
+  pages I--384. IEEE, 2003.
+
+\bibitem{koumpis2000transcription}
+Konstantinos Koumpis and Steve Renals.
+\newblock Transcription and summarization of voicemail speech.
+\newblock 2000.
+
+\bibitem{landry2006itell}
+Brian~M Landry and Mark Guzdial.
+\newblock itell: supporting retrospective storytelling with digital photos.
+\newblock In {\em Proceedings of the 6th conference on Designing Interactive
+  systems}, pages 160--168. ACM, 2006.
+
+\bibitem{lasecki2012real}
+Walter Lasecki, Christopher Miller, Adam Sadilek, Andrew Abumoussa, Donato
+  Borrello, Raja Kushalnagar, and Jeffrey Bigham.
+\newblock Real-time captioning by groups of non-experts.
+\newblock In {\em Proceedings of the 25th annual ACM symposium on User
+  interface software and technology}, pages 23--34. ACM, 2012.
+
+\bibitem{lasecki2013warping}
+Walter~S Lasecki, Christopher~D Miller, and Jeffrey~P Bigham.
+\newblock Warping time for more effective real-time crowdsourcing.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 2033--2036. ACM, 2013.
+
+\bibitem{mizen2004scrapbook}
+Mark~B Mizen.
+\newblock Scrapbook photo albums are therapeutic for alzheimer's patients.
+\newblock {\em Creative Memories}, 2004.
+
+\bibitem{pearson2015paperchains}
+Jennifer Pearson, Simon Robinson, and Matt Jones.
+\newblock Paperchains: Dynamic sketch+ voice annotations.
+\newblock In {\em Proceedings of the 18th ACM Conference on Computer Supported
+  Cooperative Work \& Social Computing}, pages 383--392. ACM, 2015.
+
+\bibitem{piper2013audio}
+Anne~Marie Piper, Nadir Weibel, and James Hollan.
+\newblock Audio-enhanced paper photos: encouraging social interaction at age
+  105.
+\newblock In {\em Proceedings of the 2013 conference on Computer supported
+  cooperative work}, pages 215--224. ACM, 2013.
+
+\bibitem{silsbee1996computer}
+Peter~L Silsbee and Alan~C Bovik.
+\newblock Computer lipreading for improved accuracy in automatic speech
+  recognition.
+\newblock {\em Speech and Audio Processing, IEEE Transactions on},
+  4(5):337--351, 1996.
+
+\bibitem{stifelman2001audio}
+Lisa Stifelman, Barry Arons, and Chris Schmandt.
+\newblock The audio notebook: paper and pen interaction with structured speech.
+\newblock In {\em Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 182--189. ACM, 2001.
+
+\bibitem{wald2006creating}
+Mike Wald.
+\newblock Creating accessible educational multimedia through editing automatic
+  speech recognition captioning in real time.
+\newblock {\em Interactive Technology and Smart Education}, 3(2):131--141,
+  2006.
+
+\bibitem{webster2010mapping}
+Jeffrey~Dean Webster, Ernst~T Bohlmeijer, and Gerben~J Westerhof.
+\newblock Mapping the future of reminiscence: A conceptual guide for research
+  and practice.
+\newblock {\em Research on Aging}, 32(4):527--564, 2010.
+
+\bibitem{west2007memento}
+David West, Aaron Quigley, and Judy Kay.
+\newblock Memento: a digital-physical scrapbook for memory sharing.
+\newblock {\em Personal and Ubiquitous Computing}, 11(4):313--328, 2007.
+
+\bibitem{westerhof2010reminiscence}
+Gerben~J Westerhof, Ernst Bohlmeijer, and Jeffrey~Dean Webster.
+\newblock Reminiscence and mental health: A review of recent progress in
+  theory, research and interventions.
+\newblock {\em Ageing and Society}, 30(04):697--721, 2010.
+
+\bibitem{woods2005reminiscence}
+Bob Woods, A~Spector, C~Jones, Martin Orrell, and S~Davies.
+\newblock Reminiscence therapy for dementia.
+\newblock {\em Cochrane Database Syst Rev}, 2, 2005.
+
+\end{thebibliography}
